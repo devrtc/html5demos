@@ -96,7 +96,7 @@ function spans($list) {
     </a>
     <footer><a id="built" href="http://twitter.com/rem">@rem built this</a></footer>
 </section>
-<a href="http://github.com/remy/html5demos"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+<a href="http://github.com/devrtc/html5demos"><img style="position: absolute; top: 0; left: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png" alt="Fork me on GitHub" /></a>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
 <script>
 (function() {
@@ -150,13 +150,7 @@ function spans($list) {
 
 }());
 
-var _gaq = [['_setAccount', 'UA-1656750-18'], ['_trackPageview']];
-(function(d, t) {
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.async = 1;
-  g.src = '//www.google-analytics.com/ga.js';
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+
 </script>
 </body>
 </html>
